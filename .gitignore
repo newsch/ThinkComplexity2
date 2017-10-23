@@ -35,3 +35,6 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+# Jupyter
+.ipynb_checkpoints
